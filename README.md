@@ -5,5 +5,5 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently focused on developing efficient Object Detectors (horizontally/Oriented) for aerial images.
--[](https://img.shields.io/badge/OS-Linux-orange?style=flat&logo=Linux&logoColor=ffffff)
+- ![](https://img.shields.io/badge/OS-Linux-orange?style=flat&logo=Linux&logoColor=ffffff)
 
