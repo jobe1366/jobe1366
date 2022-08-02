@@ -5,5 +5,5 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently focused on developing efficient Object Detectors (horizontally/Oriented) for aerial images.
--       (https://github.com/ikatyang/emoji-cheat-sheet/workflows/Up%20to%20Date/badge.svg)](https://github.com/ikatyang/emoji-cheat-sheet/actions?query=workflow%3A%22Up+to+Date%22) 
+-[](https://img.shields.io/badge/OS-Linux-orange?style=flat&logo=Linux&logoColor=ffffff)
 
