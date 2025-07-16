@@ -3,7 +3,7 @@
 - ![](https://img.shields.io/badge/Major-CS-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
 - ![](https://img.shields.io/badge/OS-Linux-orange?style=flat&logo=Linux&logoColor=ffffff)
 - ![](https://img.shields.io/badge/Use-Python-0076ab?style=flat&logo=Python&logoColor=ffffff)
-- ![](https://img.shields.io/badge/Learn-C++-blueviolet?style=flat&logo=Visual%20Studio%20Code&logoColor=ffffff)
+- ![](https://img.shields.io/badge/Learn-C-blueviolet?style=flat&logo=Visual%20Studio%20Code&logoColor=ffffff)
 
 - 🔭 _I’m currently focused on developing efficient **Object Detectors** (horizontally/Oriented) for aerial images._
 
