@@ -1,4 +1,4 @@
-### _Ayub Amini_ 👋
+### Ayub Amini 👋
 
 - ![](https://img.shields.io/badge/Major-CS-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
 - ![](https://img.shields.io/badge/OS-Linux-orange?style=flat&logo=Linux&logoColor=ffffff)
